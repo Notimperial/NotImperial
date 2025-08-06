@@ -1,5 +1,19 @@
 <p align="left">👋 Hi there! I'm a Python/Django developer passionate about building clean, scalable web apps. Currently interning at Ajna Labs, where I’m growing my skills and contributing to exciting projects.</p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###
 
 <div align="center">
